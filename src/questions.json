@@ -1,0 +1,70 @@
+ { 
+    "questions":[
+        {
+            "number"        :1,
+            "textOfQuestion":"First question. Give the corect answer",
+            "img"           :" ",
+            "textOfHint"    :" The best HInt you ever seen",
+            "isComplet"     : false,
+            "answers"       :[
+                    {    
+                        "id"        : 1,
+                        "answer"    : " 1 pretty answer",
+                        "corect"    : true
+                    },
+                    {
+                        "id"        : 2,
+                        "answer"    : " 1 nice answer",
+                        "corect"    : false
+                    },
+                    {
+                        "id"        : 3,
+                        "answer"    : " 1 good answer",
+                        "corect"    : false
+                    },
+                    {
+                        "id"        :4,
+                        "answer"    : " 1 handsome answer",
+                        "corect"    : false
+                    }
+                ]
+        
+        }
+        ,
+        {
+            
+           "number"      :2,
+            "textOfQuestion":"Second question. Give the corect answer",
+            "img"           :" ",
+            "textOfHint"    :" The best HInt you ever seen",
+            "isComplet"     : false,
+            "answers"       :[
+                    {
+                        "id"        :1,
+                        "answer"    : " pretty answer",
+                        "corect"    : false
+                    },
+                    {
+                        "id"        :2,
+                        "answer"    : " nice answer",
+                        "corect"    : true
+                    },
+                    {
+                        "id"        :3,
+                        "answer"    : " good answer",
+                        "corect"    : false
+                    },
+                    {
+                        "id"        :4,
+                        "answer"    : " handsome answer",
+                        "corect"    : false
+                    }
+                ]
+        
+            
+        }
+
+
+    ]
+    
+}
